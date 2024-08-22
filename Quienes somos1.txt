@@ -1,0 +1,43 @@
+<DOCTYPE html>
+
+<html>
+<head>
+<title> chukwa´ </title>
+<meta charset="UTF-8">
+</head>
+
+
+<body background="ima/2.jpeg">
+
+<center>
+<table border="1" width="80%">
+<tr>
+<td colspan="5" width="100%" height="120px" bgcolor="brown">
+<font size="8" color="Black" face="Bell MT"><b><center> CHUKWA´ </center></font>
+</td></b>
+</td>
+<tr>
+<tr>
+<td width="20%" bgcolor="black"><a href="Quienes somos.html"><center> <font size="6" font color="beige" face="Bell MT">QUIENES SOMOS </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="Mision.html"><center><font size="6" font color="Beige" face="Bell MT"> MISIÓN </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="Servicios.html"><center><font size="6" font color="Beige" face="Bell MT"> SERVICIOS </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="Sucursales.html"><center><font size="6" font color="Beige" face="Bell MT"> SUCURSALES </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="Tienda en linea.html"><center><font size="6" font color="Beige" face="Bell MT"> TIENDA EN LINEA </a></td></center></font>
+</tr>
+
+<tr>
+<td colspan="5" width="100%" height="60px" bgcolor="beige"><font size="5" font color="black" face="Bell MT"><center> CHUKWA´ es una empresa dedicada a la satisfacción de nuestros clientes con  una amplia carta de postres y bebidas a base de café, en un lugar donde se puede respirar tranquilidad tanto para nuestros clientes como para nuestra fuerza de trabajo, siempre comprometidos con  la calidad de nuestros productos y servicio sin dejar de lado el cuidado del medio ambiente, el cuidado de nuestra gente  y de nuestra localidad.</P>
+Nuestro principal proposito es brindar a nuestros clientes productos y servicios con los más altos estándares de calidad y eficacia, para su degustación y satisfacción total.Creemos en la calidad y en la experiencia, por eso ofrecemos una selección de cafés de epecialidad, tostados con cuidado y preparados con pasión </td>
+</tr>
+
+
+<td colspan="5" width="100%" height="440px" bgcolor="white">
+<center><img src="ima/3.jpg" width="100%" height="60%"></center>
+<p>
+<a href="Index.html"><b> REGRESAR </b></a> 
+<p>
+<br>
+</td>
+</td>
+</br>
+

@@ -1,0 +1,45 @@
+<DOCTYPE html>
+
+<html>
+<head>
+<title> chukwa´ </title>
+<meta charset="UTF-8">
+</head>
+
+<body background="ima/2.jpeg">
+
+<center>
+<table border="1" width="80%">
+<tr>
+<td colspan="5" width="100%" height="120px" bgcolor="brown">
+<font size="8" color="Black" face="Bell MT"><b><center> CHUKWA´ </center></font>
+</td></b>
+</td>
+<tr>
+<td width="20%" bgcolor="black"><a href="quienes somos.html"><center> <font size="6" font color="beige" face="Bell MT">QUIENES SOMOS </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="mision.html"><center><font size="6" font color="Beige" face="Bell MT"> MISIÓN </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="servicios.html"><center><font size="6" font color="Beige" face="Bell MT"> SERVICIOS </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="sucersales.html"><center><font size="6" font color="Beige" face="Bell MT"> SUCURSALES </a></td></center></font>
+<td width="20%" bgcolor="black"><a href="tienda en linea.html"><center><font size="6" font color="Beige" face="Bell MT"> TIENDA EN LINEA </a></td></center></font>
+</tr>
+
+<tr>
+<td colspan="5" width="100%" height="60px" bgcolor="beige"><font size="5" font color="black" face="Bell MT"><center> AMANTES DEL CAFÉ </center> </td>
+</tr>
+<tr>
+<td colspan="5" width="100%" height="60px" bgcolor="beige"><font size="5" font color="black" face="Bell MT"><center> CHUKWA´ Proviene del idioma náhuatl, el idioma de los aztecas, bebida sagrada por los mayas ellos utilizaban la bebida de chukwa'  en ceremonias religiosas, como ofrendas a sus dioses, de igual forma para uso medicinal ellos se creía que tenía propiedades medicinales y se usaba para tratar enfermedades; Se preparaba a partir de granos de cacao tostados y molidos, mezclados con agua, especias y a veces chile.</P>
+ Los conquistadores españoles llevaron el chukwa´ a Europa en el siglo XVI. La bebida se popularizó rápidamente en Europa, pero se le agregaron azúcar y otros ingredientes para hacerla más dulce.El chukwa´ evolucionó hasta convertirse en el chocolate que conocemos hoy, con diferentes tipos, sabores y formas. </td>
+</tr>
+
+<tr>
+<center>
+<br>
+<p>
+<td colspan="5" width="100%" height="440px" bgcolor="white">
+<center><img src="ima/1.jpeg" width="100%" height="20%"></center>
+<p>
+</td>
+</br>
+
+
+</body>
